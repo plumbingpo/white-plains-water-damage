@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://whiteplainsrestoration.com/sitemap.xml
